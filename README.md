@@ -11,7 +11,7 @@ As a result, you should have a CLI application that receives inputs “N”, “
 Used dynamic programming approach to solve this problem. Algorithm complexity is *O(nW)*.
 ### Program execution example:
 ```sh
-python3 main.go
+python3 main.py
 ```
 ### Output:
 ![Screenshot](example.png)
